@@ -8,6 +8,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 226px;
 }
 
 .nav-title {
@@ -15,6 +16,11 @@ nav {
     font-size: 45px;
     font-weight: 800;
 
+}
+
+/* header related styles */
+.header {
+    background: #FFF8F3;
 }
 
 .orange-part {
@@ -45,4 +51,19 @@ nav a {
     font-style: normal;
     font-weight: 700;
     padding: 18px 35px 19px 36px;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic {
+    width: 584px;
+    height: 676px;
+    
+}
+.banner-content{
+    
 }
